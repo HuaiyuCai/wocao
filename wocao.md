@@ -8,3 +8,4 @@ v0.6.1 dev
 fun1()
 hello
 fun2()
+V0.7 error
