@@ -5,3 +5,6 @@ v0.4
 v0.5
 v0.6
 v0.6.1 dev
+fun2()
+hello
+fun1()
