@@ -8,8 +8,5 @@ v0.6.1 dev
 fun2()
 hello
 fun1()
-<<<<<<< Updated upstream
 bug has been fixed in dev
-=======
 v0.6.1 ing
->>>>>>> Stashed changes
