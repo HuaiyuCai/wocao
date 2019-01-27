@@ -14,3 +14,4 @@ v0.9
 v0.10
 bug has been fixed
 v0.11 ing
+bug has been fixed again
