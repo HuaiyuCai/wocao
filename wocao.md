@@ -13,5 +13,6 @@ v0.8
 v0.9
 v0.10
 bug has been fixed
-v0.11 ing
+v0.11
 bug has been fixed again
+v0.12 ing
