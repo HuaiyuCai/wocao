@@ -12,3 +12,4 @@ V0.7 error
 v0.8
 v0.9
 v0.10
+bug has been fixed
