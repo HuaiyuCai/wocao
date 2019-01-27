@@ -6,7 +6,6 @@ v0.5
 v0.6
 v0.6.1 dev
 fun1()
-<<<<<<< Updated upstream
 hello
 fun2()
 V0.7 error
@@ -17,6 +16,3 @@ bug has been fixed
 v0.11
 bug has been fixed again
 v0.12 ing
-=======
-v0.6.1 ing
->>>>>>> Stashed changes
