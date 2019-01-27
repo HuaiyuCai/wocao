@@ -8,3 +8,4 @@ v0.6.1 dev
 fun2()
 hello
 fun1()
+bug has been fixed in dev
